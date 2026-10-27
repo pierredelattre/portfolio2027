@@ -1,0 +1,23 @@
+{
+  "scene": "lira-intro-roomy",
+  "fps": 60,
+  "frames": 888,
+  "durationMs": 14800,
+  "width": 1540,
+  "height": 1260,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "width": 1540,
+        "height": 1260,
+        "r_frame_rate": "60/1",
+        "nb_frames": "888"
+      }
+    ],
+    "format": {
+      "duration": "14.800000"
+    }
+  }
+}

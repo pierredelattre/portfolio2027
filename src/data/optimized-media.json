@@ -1,0 +1,848 @@
+{
+  "lira/dark-mode-2027.jpg": {
+    "src": "/media/lira-dark-mode-2027-1a43b84f3ef8-1600.webp",
+    "srcset": "/media/lira-dark-mode-2027-1a43b84f3ef8-480.webp 480w, /media/lira-dark-mode-2027-1a43b84f3ef8-768.webp 768w, /media/lira-dark-mode-2027-1a43b84f3ef8-1024.webp 1024w, /media/lira-dark-mode-2027-1a43b84f3ef8-1440.webp 1440w, /media/lira-dark-mode-2027-1a43b84f3ef8-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "lira/flow.jpg": {
+    "src": "/media/lira-flow-f7382dad1c24-3216.webp",
+    "srcset": "/media/lira-flow-f7382dad1c24-480.webp 480w, /media/lira-flow-f7382dad1c24-768.webp 768w, /media/lira-flow-f7382dad1c24-1024.webp 1024w, /media/lira-flow-f7382dad1c24-1440.webp 1440w, /media/lira-flow-f7382dad1c24-1920.webp 1920w, /media/lira-flow-f7382dad1c24-2560.webp 2560w, /media/lira-flow-f7382dad1c24-3216.webp 3216w",
+    "width": 3216,
+    "height": 1348
+  },
+  "lira/landing.jpg": {
+    "src": "/media/lira-landing-259cb9d720d0-1920.webp",
+    "srcset": "/media/lira-landing-259cb9d720d0-480.webp 480w, /media/lira-landing-259cb9d720d0-768.webp 768w, /media/lira-landing-259cb9d720d0-1024.webp 1024w, /media/lira-landing-259cb9d720d0-1440.webp 1440w, /media/lira-landing-259cb9d720d0-1920.webp 1920w",
+    "width": 2736,
+    "height": 1269
+  },
+  "lira/lira-banner.jpg": {
+    "src": "/media/lira-lira-banner-285245e7629d-1920.webp",
+    "srcset": "/media/lira-lira-banner-285245e7629d-480.webp 480w, /media/lira-lira-banner-285245e7629d-768.webp 768w, /media/lira-lira-banner-285245e7629d-1024.webp 1024w, /media/lira-lira-banner-285245e7629d-1440.webp 1440w, /media/lira-lira-banner-285245e7629d-1920.webp 1920w",
+    "width": 2000,
+    "height": 1333
+  },
+  "lira/lira-crossword-poster.jpg": {
+    "src": "/media/lira-lira-crossword-poster-12ec116823e9-1600.webp",
+    "srcset": "/media/lira-lira-crossword-poster-12ec116823e9-480.webp 480w, /media/lira-lira-crossword-poster-12ec116823e9-768.webp 768w, /media/lira-lira-crossword-poster-12ec116823e9-1024.webp 1024w, /media/lira-lira-crossword-poster-12ec116823e9-1440.webp 1440w, /media/lira-lira-crossword-poster-12ec116823e9-1600.webp 1600w",
+    "width": 1600,
+    "height": 1000
+  },
+  "lira/lira-crossword-start.jpg": {
+    "src": "/media/lira-lira-crossword-start-a6ff20fa8349-1920.webp",
+    "srcset": "/media/lira-lira-crossword-start-a6ff20fa8349-480.webp 480w, /media/lira-lira-crossword-start-a6ff20fa8349-768.webp 768w, /media/lira-lira-crossword-start-a6ff20fa8349-1024.webp 1024w, /media/lira-lira-crossword-start-a6ff20fa8349-1440.webp 1440w, /media/lira-lira-crossword-start-a6ff20fa8349-1920.webp 1920w",
+    "width": 3200,
+    "height": 2000
+  },
+  "lira/lira-home-poster.jpg": {
+    "src": "/media/lira-lira-home-poster-78d610e3c793-1600.webp",
+    "srcset": "/media/lira-lira-home-poster-78d610e3c793-480.webp 480w, /media/lira-lira-home-poster-78d610e3c793-768.webp 768w, /media/lira-lira-home-poster-78d610e3c793-1024.webp 1024w, /media/lira-lira-home-poster-78d610e3c793-1440.webp 1440w, /media/lira-lira-home-poster-78d610e3c793-1600.webp 1600w",
+    "width": 1600,
+    "height": 1200
+  },
+  "lira/lira-home-still.jpg": {
+    "src": "/media/lira-lira-home-still-cf2000efd319-1600.webp",
+    "srcset": "/media/lira-lira-home-still-cf2000efd319-480.webp 480w, /media/lira-lira-home-still-cf2000efd319-768.webp 768w, /media/lira-lira-home-still-cf2000efd319-1024.webp 1024w, /media/lira-lira-home-still-cf2000efd319-1440.webp 1440w, /media/lira-lira-home-still-cf2000efd319-1600.webp 1600w",
+    "width": 1600,
+    "height": 1200
+  },
+  "lira/lira-import-poster.jpg": {
+    "src": "/media/lira-lira-import-poster-d052cf445cea-1600.webp",
+    "srcset": "/media/lira-lira-import-poster-d052cf445cea-480.webp 480w, /media/lira-lira-import-poster-d052cf445cea-768.webp 768w, /media/lira-lira-import-poster-d052cf445cea-1024.webp 1024w, /media/lira-lira-import-poster-d052cf445cea-1440.webp 1440w, /media/lira-lira-import-poster-d052cf445cea-1600.webp 1600w",
+    "width": 1600,
+    "height": 1000
+  },
+  "lira/lira-import-start.jpg": {
+    "src": "/media/lira-lira-import-start-a6ff20fa8349-1920.webp",
+    "srcset": "/media/lira-lira-import-start-a6ff20fa8349-480.webp 480w, /media/lira-lira-import-start-a6ff20fa8349-768.webp 768w, /media/lira-lira-import-start-a6ff20fa8349-1024.webp 1024w, /media/lira-lira-import-start-a6ff20fa8349-1440.webp 1440w, /media/lira-lira-import-start-a6ff20fa8349-1920.webp 1920w",
+    "width": 3200,
+    "height": 2000
+  },
+  "lira/lira-intro-poster.jpg": {
+    "src": "/media/lira-lira-intro-poster-f89bbba2bad7-1600.webp",
+    "srcset": "/media/lira-lira-intro-poster-f89bbba2bad7-480.webp 480w, /media/lira-lira-intro-poster-f89bbba2bad7-768.webp 768w, /media/lira-lira-intro-poster-f89bbba2bad7-1024.webp 1024w, /media/lira-lira-intro-poster-f89bbba2bad7-1440.webp 1440w, /media/lira-lira-intro-poster-f89bbba2bad7-1600.webp 1600w",
+    "width": 1600,
+    "height": 1000
+  },
+  "lira/lira-intro-still.jpg": {
+    "src": "/media/lira-lira-intro-still-e2a47b5c1139-1600.webp",
+    "srcset": "/media/lira-lira-intro-still-e2a47b5c1139-480.webp 480w, /media/lira-lira-intro-still-e2a47b5c1139-768.webp 768w, /media/lira-lira-intro-still-e2a47b5c1139-1024.webp 1024w, /media/lira-lira-intro-still-e2a47b5c1139-1440.webp 1440w, /media/lira-lira-intro-still-e2a47b5c1139-1600.webp 1600w",
+    "width": 1600,
+    "height": 1000
+  },
+  "lira/lira-learn-poster.jpg": {
+    "src": "/media/lira-lira-learn-poster-d57aac3f2c46-1600.webp",
+    "srcset": "/media/lira-lira-learn-poster-d57aac3f2c46-480.webp 480w, /media/lira-lira-learn-poster-d57aac3f2c46-768.webp 768w, /media/lira-lira-learn-poster-d57aac3f2c46-1024.webp 1024w, /media/lira-lira-learn-poster-d57aac3f2c46-1440.webp 1440w, /media/lira-lira-learn-poster-d57aac3f2c46-1600.webp 1600w",
+    "width": 1600,
+    "height": 1000
+  },
+  "lira/lira-learn-start.jpg": {
+    "src": "/media/lira-lira-learn-start-a6ff20fa8349-1920.webp",
+    "srcset": "/media/lira-lira-learn-start-a6ff20fa8349-480.webp 480w, /media/lira-lira-learn-start-a6ff20fa8349-768.webp 768w, /media/lira-lira-learn-start-a6ff20fa8349-1024.webp 1024w, /media/lira-lira-learn-start-a6ff20fa8349-1440.webp 1440w, /media/lira-lira-learn-start-a6ff20fa8349-1920.webp 1920w",
+    "width": 3200,
+    "height": 2000
+  },
+  "lira/lira-library-poster.jpg": {
+    "src": "/media/lira-lira-library-poster-05d7b11a491b-1600.webp",
+    "srcset": "/media/lira-lira-library-poster-05d7b11a491b-480.webp 480w, /media/lira-lira-library-poster-05d7b11a491b-768.webp 768w, /media/lira-lira-library-poster-05d7b11a491b-1024.webp 1024w, /media/lira-lira-library-poster-05d7b11a491b-1440.webp 1440w, /media/lira-lira-library-poster-05d7b11a491b-1600.webp 1600w",
+    "width": 1600,
+    "height": 1000
+  },
+  "lira/lira-library-start.jpg": {
+    "src": "/media/lira-lira-library-start-a6ff20fa8349-1920.webp",
+    "srcset": "/media/lira-lira-library-start-a6ff20fa8349-480.webp 480w, /media/lira-lira-library-start-a6ff20fa8349-768.webp 768w, /media/lira-lira-library-start-a6ff20fa8349-1024.webp 1024w, /media/lira-lira-library-start-a6ff20fa8349-1440.webp 1440w, /media/lira-lira-library-start-a6ff20fa8349-1920.webp 1920w",
+    "width": 3200,
+    "height": 2000
+  },
+  "lira/lira-onboarding-poster.jpg": {
+    "src": "/media/lira-lira-onboarding-poster-6fe28706cb1c-1600.webp",
+    "srcset": "/media/lira-lira-onboarding-poster-6fe28706cb1c-480.webp 480w, /media/lira-lira-onboarding-poster-6fe28706cb1c-768.webp 768w, /media/lira-lira-onboarding-poster-6fe28706cb1c-1024.webp 1024w, /media/lira-lira-onboarding-poster-6fe28706cb1c-1440.webp 1440w, /media/lira-lira-onboarding-poster-6fe28706cb1c-1600.webp 1600w",
+    "width": 1600,
+    "height": 1000
+  },
+  "lira/lira-onboarding-start.jpg": {
+    "src": "/media/lira-lira-onboarding-start-a6ff20fa8349-1920.webp",
+    "srcset": "/media/lira-lira-onboarding-start-a6ff20fa8349-480.webp 480w, /media/lira-lira-onboarding-start-a6ff20fa8349-768.webp 768w, /media/lira-lira-onboarding-start-a6ff20fa8349-1024.webp 1024w, /media/lira-lira-onboarding-start-a6ff20fa8349-1440.webp 1440w, /media/lira-lira-onboarding-start-a6ff20fa8349-1920.webp 1920w",
+    "width": 3200,
+    "height": 2000
+  },
+  "lira/lira-quiz-poster.jpg": {
+    "src": "/media/lira-lira-quiz-poster-7c26d5480fa4-1600.webp",
+    "srcset": "/media/lira-lira-quiz-poster-7c26d5480fa4-480.webp 480w, /media/lira-lira-quiz-poster-7c26d5480fa4-768.webp 768w, /media/lira-lira-quiz-poster-7c26d5480fa4-1024.webp 1024w, /media/lira-lira-quiz-poster-7c26d5480fa4-1440.webp 1440w, /media/lira-lira-quiz-poster-7c26d5480fa4-1600.webp 1600w",
+    "width": 1600,
+    "height": 1000
+  },
+  "lira/lira-quiz-start.jpg": {
+    "src": "/media/lira-lira-quiz-start-a6ff20fa8349-1920.webp",
+    "srcset": "/media/lira-lira-quiz-start-a6ff20fa8349-480.webp 480w, /media/lira-lira-quiz-start-a6ff20fa8349-768.webp 768w, /media/lira-lira-quiz-start-a6ff20fa8349-1024.webp 1024w, /media/lira-lira-quiz-start-a6ff20fa8349-1440.webp 1440w, /media/lira-lira-quiz-start-a6ff20fa8349-1920.webp 1920w",
+    "width": 3200,
+    "height": 2000
+  },
+  "lira/lira-review-poster.jpg": {
+    "src": "/media/lira-lira-review-poster-56dfdf39ca0f-1600.webp",
+    "srcset": "/media/lira-lira-review-poster-56dfdf39ca0f-480.webp 480w, /media/lira-lira-review-poster-56dfdf39ca0f-768.webp 768w, /media/lira-lira-review-poster-56dfdf39ca0f-1024.webp 1024w, /media/lira-lira-review-poster-56dfdf39ca0f-1440.webp 1440w, /media/lira-lira-review-poster-56dfdf39ca0f-1600.webp 1600w",
+    "width": 1600,
+    "height": 1000
+  },
+  "lira/lira-review-start.jpg": {
+    "src": "/media/lira-lira-review-start-a6ff20fa8349-1920.webp",
+    "srcset": "/media/lira-lira-review-start-a6ff20fa8349-480.webp 480w, /media/lira-lira-review-start-a6ff20fa8349-768.webp 768w, /media/lira-lira-review-start-a6ff20fa8349-1024.webp 1024w, /media/lira-lira-review-start-a6ff20fa8349-1440.webp 1440w, /media/lira-lira-review-start-a6ff20fa8349-1920.webp 1920w",
+    "width": 3200,
+    "height": 2000
+  },
+  "lira/lira-stats-poster.jpg": {
+    "src": "/media/lira-lira-stats-poster-a6d6dfc7308f-1600.webp",
+    "srcset": "/media/lira-lira-stats-poster-a6d6dfc7308f-480.webp 480w, /media/lira-lira-stats-poster-a6d6dfc7308f-768.webp 768w, /media/lira-lira-stats-poster-a6d6dfc7308f-1024.webp 1024w, /media/lira-lira-stats-poster-a6d6dfc7308f-1440.webp 1440w, /media/lira-lira-stats-poster-a6d6dfc7308f-1600.webp 1600w",
+    "width": 1600,
+    "height": 1000
+  },
+  "lira/lira-stats-start.jpg": {
+    "src": "/media/lira-lira-stats-start-a6ff20fa8349-1920.webp",
+    "srcset": "/media/lira-lira-stats-start-a6ff20fa8349-480.webp 480w, /media/lira-lira-stats-start-a6ff20fa8349-768.webp 768w, /media/lira-lira-stats-start-a6ff20fa8349-1024.webp 1024w, /media/lira-lira-stats-start-a6ff20fa8349-1440.webp 1440w, /media/lira-lira-stats-start-a6ff20fa8349-1920.webp 1920w",
+    "width": 3200,
+    "height": 2000
+  },
+  "lira/lira-translation-poster.jpg": {
+    "src": "/media/lira-lira-translation-poster-ecab2f829497-1600.webp",
+    "srcset": "/media/lira-lira-translation-poster-ecab2f829497-480.webp 480w, /media/lira-lira-translation-poster-ecab2f829497-768.webp 768w, /media/lira-lira-translation-poster-ecab2f829497-1024.webp 1024w, /media/lira-lira-translation-poster-ecab2f829497-1440.webp 1440w, /media/lira-lira-translation-poster-ecab2f829497-1600.webp 1600w",
+    "width": 1600,
+    "height": 1000
+  },
+  "lira/lira-translation-start.jpg": {
+    "src": "/media/lira-lira-translation-start-0d26c3e496e2-1600.webp",
+    "srcset": "/media/lira-lira-translation-start-0d26c3e496e2-480.webp 480w, /media/lira-lira-translation-start-0d26c3e496e2-768.webp 768w, /media/lira-lira-translation-start-0d26c3e496e2-1024.webp 1024w, /media/lira-lira-translation-start-0d26c3e496e2-1440.webp 1440w, /media/lira-lira-translation-start-0d26c3e496e2-1600.webp 1600w",
+    "width": 1600,
+    "height": 1000
+  },
+  "lira/lira-vocabulary-poster.jpg": {
+    "src": "/media/lira-lira-vocabulary-poster-e63ced3830e7-1600.webp",
+    "srcset": "/media/lira-lira-vocabulary-poster-e63ced3830e7-480.webp 480w, /media/lira-lira-vocabulary-poster-e63ced3830e7-768.webp 768w, /media/lira-lira-vocabulary-poster-e63ced3830e7-1024.webp 1024w, /media/lira-lira-vocabulary-poster-e63ced3830e7-1440.webp 1440w, /media/lira-lira-vocabulary-poster-e63ced3830e7-1600.webp 1600w",
+    "width": 1600,
+    "height": 1000
+  },
+  "lira/lira-vocabulary-start.jpg": {
+    "src": "/media/lira-lira-vocabulary-start-a6ff20fa8349-1920.webp",
+    "srcset": "/media/lira-lira-vocabulary-start-a6ff20fa8349-480.webp 480w, /media/lira-lira-vocabulary-start-a6ff20fa8349-768.webp 768w, /media/lira-lira-vocabulary-start-a6ff20fa8349-1024.webp 1024w, /media/lira-lira-vocabulary-start-a6ff20fa8349-1440.webp 1440w, /media/lira-lira-vocabulary-start-a6ff20fa8349-1920.webp 1920w",
+    "width": 3200,
+    "height": 2000
+  },
+  "lira/persona-01.jpg": {
+    "src": "/media/lira-persona-01-afd5b7b0e850-1600.webp",
+    "srcset": "/media/lira-persona-01-afd5b7b0e850-480.webp 480w, /media/lira-persona-01-afd5b7b0e850-768.webp 768w, /media/lira-persona-01-afd5b7b0e850-1024.webp 1024w, /media/lira-persona-01-afd5b7b0e850-1440.webp 1440w, /media/lira-persona-01-afd5b7b0e850-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "lira/persona-02.jpg": {
+    "src": "/media/lira-persona-02-6267b50a1528-1600.webp",
+    "srcset": "/media/lira-persona-02-6267b50a1528-480.webp 480w, /media/lira-persona-02-6267b50a1528-768.webp 768w, /media/lira-persona-02-6267b50a1528-1024.webp 1024w, /media/lira-persona-02-6267b50a1528-1440.webp 1440w, /media/lira-persona-02-6267b50a1528-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "lira/persona-03.jpg": {
+    "src": "/media/lira-persona-03-4d94ce78c605-1600.webp",
+    "srcset": "/media/lira-persona-03-4d94ce78c605-480.webp 480w, /media/lira-persona-03-4d94ce78c605-768.webp 768w, /media/lira-persona-03-4d94ce78c605-1024.webp 1024w, /media/lira-persona-03-4d94ce78c605-1440.webp 1440w, /media/lira-persona-03-4d94ce78c605-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "mba/home-preview.jpg": {
+    "src": "/media/mba-home-preview-f9c39af38571-1600.webp",
+    "srcset": "/media/mba-home-preview-f9c39af38571-480.webp 480w, /media/mba-home-preview-f9c39af38571-768.webp 768w, /media/mba-home-preview-f9c39af38571-1024.webp 1024w, /media/mba-home-preview-f9c39af38571-1440.webp 1440w, /media/mba-home-preview-f9c39af38571-1600.webp 1600w",
+    "width": 1600,
+    "height": 1000
+  },
+  "mba/mba-accueil-desktop.jpg": {
+    "src": "/media/mba-mba-accueil-desktop-530c58a04096-1440.webp",
+    "srcset": "/media/mba-mba-accueil-desktop-530c58a04096-480.webp 480w, /media/mba-mba-accueil-desktop-530c58a04096-768.webp 768w, /media/mba-mba-accueil-desktop-530c58a04096-1024.webp 1024w, /media/mba-mba-accueil-desktop-530c58a04096-1440.webp 1440w",
+    "width": 1440,
+    "height": 900
+  },
+  "mba/mba-arbo.jpg": {
+    "src": "/media/mba-mba-arbo-69a2fc18b668-1600.webp",
+    "srcset": "/media/mba-mba-arbo-69a2fc18b668-480.webp 480w, /media/mba-mba-arbo-69a2fc18b668-768.webp 768w, /media/mba-mba-arbo-69a2fc18b668-1024.webp 1024w, /media/mba-mba-arbo-69a2fc18b668-1440.webp 1440w, /media/mba-mba-arbo-69a2fc18b668-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "mba/mba-banner.jpg": {
+    "src": "/media/mba-mba-banner-bcf6f5c092f1-1920.webp",
+    "srcset": "/media/mba-mba-banner-bcf6f5c092f1-480.webp 480w, /media/mba-mba-banner-bcf6f5c092f1-768.webp 768w, /media/mba-mba-banner-bcf6f5c092f1-1024.webp 1024w, /media/mba-mba-banner-bcf6f5c092f1-1440.webp 1440w, /media/mba-mba-banner-bcf6f5c092f1-1920.webp 1920w",
+    "width": 1920,
+    "height": 1440
+  },
+  "mba/mba-blog-desktop.jpg": {
+    "src": "/media/mba-mba-blog-desktop-b6486cbe288a-1600.webp",
+    "srcset": "/media/mba-mba-blog-desktop-b6486cbe288a-480.webp 480w, /media/mba-mba-blog-desktop-b6486cbe288a-768.webp 768w, /media/mba-mba-blog-desktop-b6486cbe288a-1024.webp 1024w, /media/mba-mba-blog-desktop-b6486cbe288a-1440.webp 1440w, /media/mba-mba-blog-desktop-b6486cbe288a-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "mba/mba-cadrage.jpg": {
+    "src": "/media/mba-mba-cadrage-1569bd3e3d36-1600.webp",
+    "srcset": "/media/mba-mba-cadrage-1569bd3e3d36-480.webp 480w, /media/mba-mba-cadrage-1569bd3e3d36-768.webp 768w, /media/mba-mba-cadrage-1569bd3e3d36-1024.webp 1024w, /media/mba-mba-cadrage-1569bd3e3d36-1440.webp 1440w, /media/mba-mba-cadrage-1569bd3e3d36-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "mba/mba-catalogue-desktop.jpg": {
+    "src": "/media/mba-mba-catalogue-desktop-1955262e8d05-1600.webp",
+    "srcset": "/media/mba-mba-catalogue-desktop-1955262e8d05-480.webp 480w, /media/mba-mba-catalogue-desktop-1955262e8d05-768.webp 768w, /media/mba-mba-catalogue-desktop-1955262e8d05-1024.webp 1024w, /media/mba-mba-catalogue-desktop-1955262e8d05-1440.webp 1440w, /media/mba-mba-catalogue-desktop-1955262e8d05-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "mba/mba-contact-desktop.jpg": {
+    "src": "/media/mba-mba-contact-desktop-114255bedcc3-1440.webp",
+    "srcset": "/media/mba-mba-contact-desktop-114255bedcc3-480.webp 480w, /media/mba-mba-contact-desktop-114255bedcc3-768.webp 768w, /media/mba-mba-contact-desktop-114255bedcc3-1024.webp 1024w, /media/mba-mba-contact-desktop-114255bedcc3-1440.webp 1440w",
+    "width": 1440,
+    "height": 960
+  },
+  "mba/mba-contact-flow.jpg": {
+    "src": "/media/mba-mba-contact-flow-4e9196afa0ee-1600.webp",
+    "srcset": "/media/mba-mba-contact-flow-4e9196afa0ee-480.webp 480w, /media/mba-mba-contact-flow-4e9196afa0ee-768.webp 768w, /media/mba-mba-contact-flow-4e9196afa0ee-1024.webp 1024w, /media/mba-mba-contact-flow-4e9196afa0ee-1440.webp 1440w, /media/mba-mba-contact-flow-4e9196afa0ee-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "mba/mba-contexte-contraintes.jpg": {
+    "src": "/media/mba-mba-contexte-contraintes-9751a0cf0f84-1600.webp",
+    "srcset": "/media/mba-mba-contexte-contraintes-9751a0cf0f84-480.webp 480w, /media/mba-mba-contexte-contraintes-9751a0cf0f84-768.webp 768w, /media/mba-mba-contexte-contraintes-9751a0cf0f84-1024.webp 1024w, /media/mba-mba-contexte-contraintes-9751a0cf0f84-1440.webp 1440w, /media/mba-mba-contexte-contraintes-9751a0cf0f84-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "mba/mba-financement-home.jpg": {
+    "src": "/media/mba-mba-financement-home-b7188b9b7550-940.webp",
+    "srcset": "/media/mba-mba-financement-home-b7188b9b7550-480.webp 480w, /media/mba-mba-financement-home-b7188b9b7550-768.webp 768w, /media/mba-mba-financement-home-b7188b9b7550-940.webp 940w",
+    "width": 940,
+    "height": 860
+  },
+  "mba/mba-financement-poster.jpg": {
+    "src": "/media/mba-mba-financement-poster-b7a8a54d8bd7-1600.webp",
+    "srcset": "/media/mba-mba-financement-poster-b7a8a54d8bd7-480.webp 480w, /media/mba-mba-financement-poster-b7a8a54d8bd7-768.webp 768w, /media/mba-mba-financement-poster-b7a8a54d8bd7-1024.webp 1024w, /media/mba-mba-financement-poster-b7a8a54d8bd7-1440.webp 1440w, /media/mba-mba-financement-poster-b7a8a54d8bd7-1600.webp 1600w",
+    "width": 1600,
+    "height": 1000
+  },
+  "mba/mba-financements-desktop.jpg": {
+    "src": "/media/mba-mba-financements-desktop-f3dde30fb052-1440.webp",
+    "srcset": "/media/mba-mba-financements-desktop-f3dde30fb052-480.webp 480w, /media/mba-mba-financements-desktop-f3dde30fb052-768.webp 768w, /media/mba-mba-financements-desktop-f3dde30fb052-1024.webp 1024w, /media/mba-mba-financements-desktop-f3dde30fb052-1440.webp 1440w",
+    "width": 1440,
+    "height": 900
+  },
+  "mba/mba-formation-desktop.jpg": {
+    "src": "/media/mba-mba-formation-desktop-e6fe9ac29212-1600.webp",
+    "srcset": "/media/mba-mba-formation-desktop-e6fe9ac29212-480.webp 480w, /media/mba-mba-formation-desktop-e6fe9ac29212-768.webp 768w, /media/mba-mba-formation-desktop-e6fe9ac29212-1024.webp 1024w, /media/mba-mba-formation-desktop-e6fe9ac29212-1440.webp 1440w, /media/mba-mba-formation-desktop-e6fe9ac29212-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "mba/mba-frictions.jpg": {
+    "src": "/media/mba-mba-frictions-44a7bd7b70f1-1600.webp",
+    "srcset": "/media/mba-mba-frictions-44a7bd7b70f1-480.webp 480w, /media/mba-mba-frictions-44a7bd7b70f1-768.webp 768w, /media/mba-mba-frictions-44a7bd7b70f1-1024.webp 1024w, /media/mba-mba-frictions-44a7bd7b70f1-1440.webp 1440w, /media/mba-mba-frictions-44a7bd7b70f1-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "mba/mba-home-poster.jpg": {
+    "src": "/media/mba-mba-home-poster-54ccecd39b7b-1200.webp",
+    "srcset": "/media/mba-mba-home-poster-54ccecd39b7b-480.webp 480w, /media/mba-mba-home-poster-54ccecd39b7b-768.webp 768w, /media/mba-mba-home-poster-54ccecd39b7b-1024.webp 1024w, /media/mba-mba-home-poster-54ccecd39b7b-1200.webp 1200w",
+    "width": 1200,
+    "height": 1000
+  },
+  "mba/mba-home-still.jpg": {
+    "src": "/media/mba-mba-home-still-a24c0189437a-1200.webp",
+    "srcset": "/media/mba-mba-home-still-a24c0189437a-480.webp 480w, /media/mba-mba-home-still-a24c0189437a-768.webp 768w, /media/mba-mba-home-still-a24c0189437a-1024.webp 1024w, /media/mba-mba-home-still-a24c0189437a-1200.webp 1200w",
+    "width": 1200,
+    "height": 1000
+  },
+  "mba/mba-impact.jpg": {
+    "src": "/media/mba-mba-impact-0badcb38e347-1920.webp",
+    "srcset": "/media/mba-mba-impact-0badcb38e347-480.webp 480w, /media/mba-mba-impact-0badcb38e347-768.webp 768w, /media/mba-mba-impact-0badcb38e347-1024.webp 1024w, /media/mba-mba-impact-0badcb38e347-1440.webp 1440w, /media/mba-mba-impact-0badcb38e347-1920.webp 1920w",
+    "width": 2736,
+    "height": 1269
+  },
+  "mba/mba-keystatic-home.jpg": {
+    "src": "/media/mba-mba-keystatic-home-aa0e25cc0b25-940.webp",
+    "srcset": "/media/mba-mba-keystatic-home-aa0e25cc0b25-480.webp 480w, /media/mba-mba-keystatic-home-aa0e25cc0b25-768.webp 768w, /media/mba-mba-keystatic-home-aa0e25cc0b25-940.webp 940w",
+    "width": 940,
+    "height": 860
+  },
+  "mba/mba-keystatic-poster.jpg": {
+    "src": "/media/mba-mba-keystatic-poster-76c8b363a0f8-1600.webp",
+    "srcset": "/media/mba-mba-keystatic-poster-76c8b363a0f8-480.webp 480w, /media/mba-mba-keystatic-poster-76c8b363a0f8-768.webp 768w, /media/mba-mba-keystatic-poster-76c8b363a0f8-1024.webp 1024w, /media/mba-mba-keystatic-poster-76c8b363a0f8-1440.webp 1440w, /media/mba-mba-keystatic-poster-76c8b363a0f8-1600.webp 1600w",
+    "width": 1600,
+    "height": 1000
+  },
+  "mba/mba-local-desktop.jpg": {
+    "src": "/media/mba-mba-local-desktop-af70834854f2-1440.webp",
+    "srcset": "/media/mba-mba-local-desktop-af70834854f2-480.webp 480w, /media/mba-mba-local-desktop-af70834854f2-768.webp 768w, /media/mba-mba-local-desktop-af70834854f2-1024.webp 1024w, /media/mba-mba-local-desktop-af70834854f2-1440.webp 1440w",
+    "width": 1440,
+    "height": 960
+  },
+  "mba/mba-local-queries.jpg": {
+    "src": "/media/mba-mba-local-queries-a135627d9f08-1600.webp",
+    "srcset": "/media/mba-mba-local-queries-a135627d9f08-480.webp 480w, /media/mba-mba-local-queries-a135627d9f08-768.webp 768w, /media/mba-mba-local-queries-a135627d9f08-1024.webp 1024w, /media/mba-mba-local-queries-a135627d9f08-1440.webp 1440w, /media/mba-mba-local-queries-a135627d9f08-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "mba/mba-metier-desktop.jpg": {
+    "src": "/media/mba-mba-metier-desktop-b1f5c49939a6-1600.webp",
+    "srcset": "/media/mba-mba-metier-desktop-b1f5c49939a6-480.webp 480w, /media/mba-mba-metier-desktop-b1f5c49939a6-768.webp 768w, /media/mba-mba-metier-desktop-b1f5c49939a6-1024.webp 1024w, /media/mba-mba-metier-desktop-b1f5c49939a6-1440.webp 1440w, /media/mba-mba-metier-desktop-b1f5c49939a6-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "mba/mba-personas.jpg": {
+    "src": "/media/mba-mba-personas-c4989f90b938-1600.webp",
+    "srcset": "/media/mba-mba-personas-c4989f90b938-480.webp 480w, /media/mba-mba-personas-c4989f90b938-768.webp 768w, /media/mba-mba-personas-c4989f90b938-1024.webp 1024w, /media/mba-mba-personas-c4989f90b938-1440.webp 1440w, /media/mba-mba-personas-c4989f90b938-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "mba/mba-principes.jpg": {
+    "src": "/media/mba-mba-principes-f18f82001698-1600.webp",
+    "srcset": "/media/mba-mba-principes-f18f82001698-480.webp 480w, /media/mba-mba-principes-f18f82001698-768.webp 768w, /media/mba-mba-principes-f18f82001698-1024.webp 1024w, /media/mba-mba-principes-f18f82001698-1440.webp 1440w, /media/mba-mba-principes-f18f82001698-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "mba/mba-priorisation.jpg": {
+    "src": "/media/mba-mba-priorisation-6702697c45fe-1920.webp",
+    "srcset": "/media/mba-mba-priorisation-6702697c45fe-480.webp 480w, /media/mba-mba-priorisation-6702697c45fe-768.webp 768w, /media/mba-mba-priorisation-6702697c45fe-1024.webp 1024w, /media/mba-mba-priorisation-6702697c45fe-1440.webp 1440w, /media/mba-mba-priorisation-6702697c45fe-1920.webp 1920w",
+    "width": 2736,
+    "height": 1269
+  },
+  "mba/mobile-mba-arbo.jpg": {
+    "src": "/media/mba-mobile-mba-arbo-f0a58bd1d18d-1022.webp",
+    "srcset": "/media/mba-mobile-mba-arbo-f0a58bd1d18d-480.webp 480w, /media/mba-mobile-mba-arbo-f0a58bd1d18d-768.webp 768w, /media/mba-mobile-mba-arbo-f0a58bd1d18d-1022.webp 1022w",
+    "width": 1022,
+    "height": 1050
+  },
+  "mba/mobile-mba-principes.jpg": {
+    "src": "/media/mba-mobile-mba-principes-8f4c049b7f6b-1320.webp",
+    "srcset": "/media/mba-mobile-mba-principes-8f4c049b7f6b-480.webp 480w, /media/mba-mobile-mba-principes-8f4c049b7f6b-768.webp 768w, /media/mba-mobile-mba-principes-8f4c049b7f6b-1024.webp 1024w, /media/mba-mobile-mba-principes-8f4c049b7f6b-1320.webp 1320w",
+    "width": 1320,
+    "height": 960
+  },
+  "septiemeseance/002.jpg": {
+    "src": "/media/septiemeseance-002-a94a6d716a13-1920.webp",
+    "srcset": "/media/septiemeseance-002-a94a6d716a13-480.webp 480w, /media/septiemeseance-002-a94a6d716a13-768.webp 768w, /media/septiemeseance-002-a94a6d716a13-1024.webp 1024w, /media/septiemeseance-002-a94a6d716a13-1440.webp 1440w, /media/septiemeseance-002-a94a6d716a13-1920.webp 1920w",
+    "width": 1920,
+    "height": 1280
+  },
+  "septiemeseance/alertes.jpg": {
+    "src": "/media/septiemeseance-alertes-da17f777d51a-1600.webp",
+    "srcset": "/media/septiemeseance-alertes-da17f777d51a-480.webp 480w, /media/septiemeseance-alertes-da17f777d51a-768.webp 768w, /media/septiemeseance-alertes-da17f777d51a-1024.webp 1024w, /media/septiemeseance-alertes-da17f777d51a-1440.webp 1440w, /media/septiemeseance-alertes-da17f777d51a-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "septiemeseance/contexte.jpg": {
+    "src": "/media/septiemeseance-contexte-ca37d1047e32-1920.webp",
+    "srcset": "/media/septiemeseance-contexte-ca37d1047e32-480.webp 480w, /media/septiemeseance-contexte-ca37d1047e32-768.webp 768w, /media/septiemeseance-contexte-ca37d1047e32-1024.webp 1024w, /media/septiemeseance-contexte-ca37d1047e32-1440.webp 1440w, /media/septiemeseance-contexte-ca37d1047e32-1920.webp 1920w",
+    "width": 2880,
+    "height": 2100
+  },
+  "septiemeseance/filter-empty.jpg": {
+    "src": "/media/septiemeseance-filter-empty-d2df98d00849-1600.webp",
+    "srcset": "/media/septiemeseance-filter-empty-d2df98d00849-480.webp 480w, /media/septiemeseance-filter-empty-d2df98d00849-768.webp 768w, /media/septiemeseance-filter-empty-d2df98d00849-1024.webp 1024w, /media/septiemeseance-filter-empty-d2df98d00849-1440.webp 1440w, /media/septiemeseance-filter-empty-d2df98d00849-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "septiemeseance/filter-films.jpg": {
+    "src": "/media/septiemeseance-filter-films-b819c742e10f-1600.webp",
+    "srcset": "/media/septiemeseance-filter-films-b819c742e10f-480.webp 480w, /media/septiemeseance-filter-films-b819c742e10f-768.webp 768w, /media/septiemeseance-filter-films-b819c742e10f-1024.webp 1024w, /media/septiemeseance-filter-films-b819c742e10f-1440.webp 1440w, /media/septiemeseance-filter-films-b819c742e10f-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "septiemeseance/filter-langue.jpg": {
+    "src": "/media/septiemeseance-filter-langue-bd154c39d621-1600.webp",
+    "srcset": "/media/septiemeseance-filter-langue-bd154c39d621-480.webp 480w, /media/septiemeseance-filter-langue-bd154c39d621-768.webp 768w, /media/septiemeseance-filter-langue-bd154c39d621-1024.webp 1024w, /media/septiemeseance-filter-langue-bd154c39d621-1440.webp 1440w, /media/septiemeseance-filter-langue-bd154c39d621-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "septiemeseance/filter-perimetre.jpg": {
+    "src": "/media/septiemeseance-filter-perimetre-74a2ec84276e-1600.webp",
+    "srcset": "/media/septiemeseance-filter-perimetre-74a2ec84276e-480.webp 480w, /media/septiemeseance-filter-perimetre-74a2ec84276e-768.webp 768w, /media/septiemeseance-filter-perimetre-74a2ec84276e-1024.webp 1024w, /media/septiemeseance-filter-perimetre-74a2ec84276e-1440.webp 1440w, /media/septiemeseance-filter-perimetre-74a2ec84276e-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "septiemeseance/filter-results.jpg": {
+    "src": "/media/septiemeseance-filter-results-9645e6da2df4-1600.webp",
+    "srcset": "/media/septiemeseance-filter-results-9645e6da2df4-480.webp 480w, /media/septiemeseance-filter-results-9645e6da2df4-768.webp 768w, /media/septiemeseance-filter-results-9645e6da2df4-1024.webp 1024w, /media/septiemeseance-filter-results-9645e6da2df4-1440.webp 1440w, /media/septiemeseance-filter-results-9645e6da2df4-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "septiemeseance/filter-seances.jpg": {
+    "src": "/media/septiemeseance-filter-seances-cc15877707e5-1600.webp",
+    "srcset": "/media/septiemeseance-filter-seances-cc15877707e5-480.webp 480w, /media/septiemeseance-filter-seances-cc15877707e5-768.webp 768w, /media/septiemeseance-filter-seances-cc15877707e5-1024.webp 1024w, /media/septiemeseance-filter-seances-cc15877707e5-1440.webp 1440w, /media/septiemeseance-filter-seances-cc15877707e5-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "septiemeseance/geoloc.jpg": {
+    "src": "/media/septiemeseance-geoloc-910bc8dbae3f-1920.webp",
+    "srcset": "/media/septiemeseance-geoloc-910bc8dbae3f-480.webp 480w, /media/septiemeseance-geoloc-910bc8dbae3f-768.webp 768w, /media/septiemeseance-geoloc-910bc8dbae3f-1024.webp 1024w, /media/septiemeseance-geoloc-910bc8dbae3f-1440.webp 1440w, /media/septiemeseance-geoloc-910bc8dbae3f-1920.webp 1920w",
+    "width": 2020,
+    "height": 989
+  },
+  "septiemeseance/home-preview.jpg": {
+    "src": "/media/septiemeseance-home-preview-ee75d519496e-1200.webp",
+    "srcset": "/media/septiemeseance-home-preview-ee75d519496e-480.webp 480w, /media/septiemeseance-home-preview-ee75d519496e-768.webp 768w, /media/septiemeseance-home-preview-ee75d519496e-1024.webp 1024w, /media/septiemeseance-home-preview-ee75d519496e-1200.webp 1200w",
+    "width": 1200,
+    "height": 1000
+  },
+  "septiemeseance/letterboxd.jpg": {
+    "src": "/media/septiemeseance-letterboxd-1d4cb693f475-1600.webp",
+    "srcset": "/media/septiemeseance-letterboxd-1d4cb693f475-480.webp 480w, /media/septiemeseance-letterboxd-1d4cb693f475-768.webp 768w, /media/septiemeseance-letterboxd-1d4cb693f475-1024.webp 1024w, /media/septiemeseance-letterboxd-1d4cb693f475-1440.webp 1440w, /media/septiemeseance-letterboxd-1d4cb693f475-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "septiemeseance/mobile-alertes.jpg": {
+    "src": "/media/septiemeseance-mobile-alertes-f4cd40cb8dc7-656.webp",
+    "srcset": "/media/septiemeseance-mobile-alertes-f4cd40cb8dc7-480.webp 480w, /media/septiemeseance-mobile-alertes-f4cd40cb8dc7-656.webp 656w",
+    "width": 656,
+    "height": 1349
+  },
+  "septiemeseance/mobile-filter-seances.jpg": {
+    "src": "/media/septiemeseance-mobile-filter-seances-d7f38f9881b4-1320.webp",
+    "srcset": "/media/septiemeseance-mobile-filter-seances-d7f38f9881b4-480.webp 480w, /media/septiemeseance-mobile-filter-seances-d7f38f9881b4-768.webp 768w, /media/septiemeseance-mobile-filter-seances-d7f38f9881b4-1024.webp 1024w, /media/septiemeseance-mobile-filter-seances-d7f38f9881b4-1320.webp 1320w",
+    "width": 1320,
+    "height": 960
+  },
+  "septiemeseance/mobile-geoloc.jpg": {
+    "src": "/media/septiemeseance-mobile-geoloc-c66880181292-665.webp",
+    "srcset": "/media/septiemeseance-mobile-geoloc-c66880181292-480.webp 480w, /media/septiemeseance-mobile-geoloc-c66880181292-665.webp 665w",
+    "width": 665,
+    "height": 1358
+  },
+  "septiemeseance/mobile-projections.jpg": {
+    "src": "/media/septiemeseance-mobile-projections-7516aecddfb4-665.webp",
+    "srcset": "/media/septiemeseance-mobile-projections-7516aecddfb4-480.webp 480w, /media/septiemeseance-mobile-projections-7516aecddfb4-665.webp 665w",
+    "width": 665,
+    "height": 1358
+  },
+  "septiemeseance/notes.jpg": {
+    "src": "/media/septiemeseance-notes-31323eb2ae53-1600.webp",
+    "srcset": "/media/septiemeseance-notes-31323eb2ae53-480.webp 480w, /media/septiemeseance-notes-31323eb2ae53-768.webp 768w, /media/septiemeseance-notes-31323eb2ae53-1024.webp 1024w, /media/septiemeseance-notes-31323eb2ae53-1440.webp 1440w, /media/septiemeseance-notes-31323eb2ae53-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "septiemeseance/projections.jpg": {
+    "src": "/media/septiemeseance-projections-7dd82d8ad14c-1600.webp",
+    "srcset": "/media/septiemeseance-projections-7dd82d8ad14c-480.webp 480w, /media/septiemeseance-projections-7dd82d8ad14c-768.webp 768w, /media/septiemeseance-projections-7dd82d8ad14c-1024.webp 1024w, /media/septiemeseance-projections-7dd82d8ad14c-1440.webp 1440w, /media/septiemeseance-projections-7dd82d8ad14c-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "septiemeseance/septieme-home-poster.jpg": {
+    "src": "/media/septiemeseance-septieme-home-poster-04155d896bb7-1600.webp",
+    "srcset": "/media/septiemeseance-septieme-home-poster-04155d896bb7-480.webp 480w, /media/septiemeseance-septieme-home-poster-04155d896bb7-768.webp 768w, /media/septiemeseance-septieme-home-poster-04155d896bb7-1024.webp 1024w, /media/septiemeseance-septieme-home-poster-04155d896bb7-1440.webp 1440w, /media/septiemeseance-septieme-home-poster-04155d896bb7-1600.webp 1600w",
+    "width": 1600,
+    "height": 1200
+  },
+  "septiemeseance/septieme-home-still.jpg": {
+    "src": "/media/septiemeseance-septieme-home-still-04155d896bb7-1600.webp",
+    "srcset": "/media/septiemeseance-septieme-home-still-04155d896bb7-480.webp 480w, /media/septiemeseance-septieme-home-still-04155d896bb7-768.webp 768w, /media/septiemeseance-septieme-home-still-04155d896bb7-1024.webp 1024w, /media/septiemeseance-septieme-home-still-04155d896bb7-1440.webp 1440w, /media/septiemeseance-septieme-home-still-04155d896bb7-1600.webp 1600w",
+    "width": 1600,
+    "height": 1200
+  },
+  "septiemeseance/septieme-intro-mobile-poster.jpg": {
+    "src": "/media/septiemeseance-septieme-intro-mobile-poster-e42e5e104c68-900.webp",
+    "srcset": "/media/septiemeseance-septieme-intro-mobile-poster-e42e5e104c68-480.webp 480w, /media/septiemeseance-septieme-intro-mobile-poster-e42e5e104c68-768.webp 768w, /media/septiemeseance-septieme-intro-mobile-poster-e42e5e104c68-900.webp 900w",
+    "width": 900,
+    "height": 1000
+  },
+  "septiemeseance/septieme-intro-mobile-still.jpg": {
+    "src": "/media/septiemeseance-septieme-intro-mobile-still-86d5fd60ebb2-900.webp",
+    "srcset": "/media/septiemeseance-septieme-intro-mobile-still-86d5fd60ebb2-480.webp 480w, /media/septiemeseance-septieme-intro-mobile-still-86d5fd60ebb2-768.webp 768w, /media/septiemeseance-septieme-intro-mobile-still-86d5fd60ebb2-900.webp 900w",
+    "width": 900,
+    "height": 1000
+  },
+  "septiemeseance/septieme-intro-poster.jpg": {
+    "src": "/media/septiemeseance-septieme-intro-poster-d854b1c94e3c-1600.webp",
+    "srcset": "/media/septiemeseance-septieme-intro-poster-d854b1c94e3c-480.webp 480w, /media/septiemeseance-septieme-intro-poster-d854b1c94e3c-768.webp 768w, /media/septiemeseance-septieme-intro-poster-d854b1c94e3c-1024.webp 1024w, /media/septiemeseance-septieme-intro-poster-d854b1c94e3c-1440.webp 1440w, /media/septiemeseance-septieme-intro-poster-d854b1c94e3c-1600.webp 1600w",
+    "width": 1600,
+    "height": 1000
+  },
+  "septiemeseance/septieme-intro-still.jpg": {
+    "src": "/media/septiemeseance-septieme-intro-still-d854b1c94e3c-1600.webp",
+    "srcset": "/media/septiemeseance-septieme-intro-still-d854b1c94e3c-480.webp 480w, /media/septiemeseance-septieme-intro-still-d854b1c94e3c-768.webp 768w, /media/septiemeseance-septieme-intro-still-d854b1c94e3c-1024.webp 1024w, /media/septiemeseance-septieme-intro-still-d854b1c94e3c-1440.webp 1440w, /media/septiemeseance-septieme-intro-still-d854b1c94e3c-1600.webp 1600w",
+    "width": 1600,
+    "height": 1000
+  },
+  "talkie/apprentissage.jpg": {
+    "src": "/media/talkie-apprentissage-d41b61bfc433-1600.webp",
+    "srcset": "/media/talkie-apprentissage-d41b61bfc433-480.webp 480w, /media/talkie-apprentissage-d41b61bfc433-768.webp 768w, /media/talkie-apprentissage-d41b61bfc433-1024.webp 1024w, /media/talkie-apprentissage-d41b61bfc433-1440.webp 1440w, /media/talkie-apprentissage-d41b61bfc433-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "talkie/banner.jpg": {
+    "src": "/media/talkie-banner-8972104c985a-1920.webp",
+    "srcset": "/media/talkie-banner-8972104c985a-480.webp 480w, /media/talkie-banner-8972104c985a-768.webp 768w, /media/talkie-banner-8972104c985a-1024.webp 1024w, /media/talkie-banner-8972104c985a-1440.webp 1440w, /media/talkie-banner-8972104c985a-1920.webp 1920w",
+    "width": 2000,
+    "height": 1333
+  },
+  "talkie/contexte.jpg": {
+    "src": "/media/talkie-contexte-3c472ada47d1-1920.webp",
+    "srcset": "/media/talkie-contexte-3c472ada47d1-480.webp 480w, /media/talkie-contexte-3c472ada47d1-768.webp 768w, /media/talkie-contexte-3c472ada47d1-1024.webp 1024w, /media/talkie-contexte-3c472ada47d1-1440.webp 1440w, /media/talkie-contexte-3c472ada47d1-1920.webp 1920w",
+    "width": 2880,
+    "height": 2100
+  },
+  "talkie/designsystem.jpg": {
+    "src": "/media/talkie-designsystem-84de717c48f3-1920.webp",
+    "srcset": "/media/talkie-designsystem-84de717c48f3-480.webp 480w, /media/talkie-designsystem-84de717c48f3-768.webp 768w, /media/talkie-designsystem-84de717c48f3-1024.webp 1024w, /media/talkie-designsystem-84de717c48f3-1440.webp 1440w, /media/talkie-designsystem-84de717c48f3-1920.webp 1920w",
+    "width": 3712,
+    "height": 1400
+  },
+  "talkie/duels.jpg": {
+    "src": "/media/talkie-duels-f336b919a079-1600.webp",
+    "srcset": "/media/talkie-duels-f336b919a079-480.webp 480w, /media/talkie-duels-f336b919a079-768.webp 768w, /media/talkie-duels-f336b919a079-1024.webp 1024w, /media/talkie-duels-f336b919a079-1440.webp 1440w, /media/talkie-duels-f336b919a079-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "talkie/entr.jpg": {
+    "src": "/media/talkie-entr-06d593203e6f-1600.webp",
+    "srcset": "/media/talkie-entr-06d593203e6f-480.webp 480w, /media/talkie-entr-06d593203e6f-768.webp 768w, /media/talkie-entr-06d593203e6f-1024.webp 1024w, /media/talkie-entr-06d593203e6f-1440.webp 1440w, /media/talkie-entr-06d593203e6f-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "talkie/flows.jpg": {
+    "src": "/media/talkie-flows-80641a5fbf26-1600.webp",
+    "srcset": "/media/talkie-flows-80641a5fbf26-480.webp 480w, /media/talkie-flows-80641a5fbf26-768.webp 768w, /media/talkie-flows-80641a5fbf26-1024.webp 1024w, /media/talkie-flows-80641a5fbf26-1440.webp 1440w, /media/talkie-flows-80641a5fbf26-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "talkie/fonctions.jpg": {
+    "src": "/media/talkie-fonctions-e29a42f8ad38-1320.webp",
+    "srcset": "/media/talkie-fonctions-e29a42f8ad38-480.webp 480w, /media/talkie-fonctions-e29a42f8ad38-768.webp 768w, /media/talkie-fonctions-e29a42f8ad38-1024.webp 1024w, /media/talkie-fonctions-e29a42f8ad38-1320.webp 1320w",
+    "width": 1320,
+    "height": 1620
+  },
+  "talkie/mobile-flows.jpg": {
+    "src": "/media/talkie-mobile-flows-32209dccc3be-1398.webp",
+    "srcset": "/media/talkie-mobile-flows-32209dccc3be-480.webp 480w, /media/talkie-mobile-flows-32209dccc3be-768.webp 768w, /media/talkie-mobile-flows-32209dccc3be-1024.webp 1024w, /media/talkie-mobile-flows-32209dccc3be-1398.webp 1398w",
+    "width": 1398,
+    "height": 2100
+  },
+  "talkie/per.jpg": {
+    "src": "/media/talkie-per-aa4d64b97b53-1920.webp",
+    "srcset": "/media/talkie-per-aa4d64b97b53-480.webp 480w, /media/talkie-per-aa4d64b97b53-768.webp 768w, /media/talkie-per-aa4d64b97b53-1024.webp 1024w, /media/talkie-per-aa4d64b97b53-1440.webp 1440w, /media/talkie-per-aa4d64b97b53-1920.webp 1920w",
+    "width": 2736,
+    "height": 1269
+  },
+  "talkie/quiz.jpg": {
+    "src": "/media/talkie-quiz-0375b1ece53b-1600.webp",
+    "srcset": "/media/talkie-quiz-0375b1ece53b-480.webp 480w, /media/talkie-quiz-0375b1ece53b-768.webp 768w, /media/talkie-quiz-0375b1ece53b-1024.webp 1024w, /media/talkie-quiz-0375b1ece53b-1440.webp 1440w, /media/talkie-quiz-0375b1ece53b-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "talkie/résultat.jpg": {
+    "src": "/media/talkie-résultat-59959d42cbb9-1600.webp",
+    "srcset": "/media/talkie-résultat-59959d42cbb9-480.webp 480w, /media/talkie-résultat-59959d42cbb9-768.webp 768w, /media/talkie-résultat-59959d42cbb9-1024.webp 1024w, /media/talkie-résultat-59959d42cbb9-1440.webp 1440w, /media/talkie-résultat-59959d42cbb9-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "talkie/tests.jpg": {
+    "src": "/media/talkie-tests-b1f07f0b3f16-1600.webp",
+    "srcset": "/media/talkie-tests-b1f07f0b3f16-480.webp 480w, /media/talkie-tests-b1f07f0b3f16-768.webp 768w, /media/talkie-tests-b1f07f0b3f16-1024.webp 1024w, /media/talkie-tests-b1f07f0b3f16-1440.webp 1440w, /media/talkie-tests-b1f07f0b3f16-1600.webp 1600w",
+    "width": 1600,
+    "height": 1600
+  },
+  "talkie/uikit.jpg": {
+    "src": "/media/talkie-uikit-c783225d7542-1920.webp",
+    "srcset": "/media/talkie-uikit-c783225d7542-480.webp 480w, /media/talkie-uikit-c783225d7542-768.webp 768w, /media/talkie-uikit-c783225d7542-1024.webp 1024w, /media/talkie-uikit-c783225d7542-1440.webp 1440w, /media/talkie-uikit-c783225d7542-1920.webp 1920w",
+    "width": 3712,
+    "height": 1400
+  },
+  "lira/lira-crossword.mp4": {
+    "src": "/media/lira-lira-crossword-4999080459fc-desktop-4999080459fc.mp4",
+    "width": 1600,
+    "height": 1000,
+    "mobileSrc": "/media/lira-lira-crossword-4999080459fc-mobile-4999080459fc.mp4",
+    "mobileWidth": 960,
+    "mobileHeight": 600
+  },
+  "lira/lira-home.mp4": {
+    "src": "/media/lira-lira-home-ea15db28efda-desktop-ea15db28efda.mp4",
+    "width": 1600,
+    "height": 1200,
+    "mobileSrc": "/media/lira-lira-home-ea15db28efda-mobile-ea15db28efda.mp4",
+    "mobileWidth": 960,
+    "mobileHeight": 720
+  },
+  "lira/lira-import.mp4": {
+    "src": "/media/lira-lira-import-a521d0925779-desktop-a521d0925779.mp4",
+    "width": 1600,
+    "height": 1000,
+    "mobileSrc": "/media/lira-lira-import-a521d0925779-mobile-a521d0925779.mp4",
+    "mobileWidth": 960,
+    "mobileHeight": 600
+  },
+  "lira/lira-intro.mp4": {
+    "src": "/media/lira-lira-intro-da80c227e122-desktop-da80c227e122.mp4",
+    "width": 1600,
+    "height": 1000,
+    "mobileSrc": "/media/lira-lira-intro-da80c227e122-mobile-da80c227e122.mp4",
+    "mobileWidth": 960,
+    "mobileHeight": 600
+  },
+  "lira/lira-learn.mp4": {
+    "src": "/media/lira-lira-learn-535f2569b9c1-desktop-535f2569b9c1.mp4",
+    "width": 1600,
+    "height": 1000,
+    "mobileSrc": "/media/lira-lira-learn-535f2569b9c1-mobile-535f2569b9c1.mp4",
+    "mobileWidth": 960,
+    "mobileHeight": 600
+  },
+  "lira/lira-library.mp4": {
+    "src": "/media/lira-lira-library-59777dc048ca-desktop-59777dc048ca.mp4",
+    "width": 1600,
+    "height": 1000,
+    "mobileSrc": "/media/lira-lira-library-59777dc048ca-mobile-59777dc048ca.mp4",
+    "mobileWidth": 960,
+    "mobileHeight": 600
+  },
+  "lira/lira-onboarding.mp4": {
+    "src": "/media/lira-lira-onboarding-b546027b7eb2-desktop-b546027b7eb2.mp4",
+    "width": 1600,
+    "height": 1000,
+    "mobileSrc": "/media/lira-lira-onboarding-b546027b7eb2-mobile-b546027b7eb2.mp4",
+    "mobileWidth": 960,
+    "mobileHeight": 600
+  },
+  "lira/lira-quiz.mp4": {
+    "src": "/media/lira-lira-quiz-cd5fccce2e03-desktop-cd5fccce2e03.mp4",
+    "width": 1600,
+    "height": 1000,
+    "mobileSrc": "/media/lira-lira-quiz-cd5fccce2e03-mobile-cd5fccce2e03.mp4",
+    "mobileWidth": 960,
+    "mobileHeight": 600
+  },
+  "lira/lira-review.mp4": {
+    "src": "/media/lira-lira-review-25298cb28f3a-desktop-25298cb28f3a.mp4",
+    "width": 1600,
+    "height": 1000,
+    "mobileSrc": "/media/lira-lira-review-25298cb28f3a-mobile-25298cb28f3a.mp4",
+    "mobileWidth": 960,
+    "mobileHeight": 600
+  },
+  "lira/lira-stats.mp4": {
+    "src": "/media/lira-lira-stats-1259aa8238cf-desktop-1259aa8238cf.mp4",
+    "width": 1600,
+    "height": 1000,
+    "mobileSrc": "/media/lira-lira-stats-1259aa8238cf-mobile-1259aa8238cf.mp4",
+    "mobileWidth": 960,
+    "mobileHeight": 600
+  },
+  "lira/lira-translation.mp4": {
+    "src": "/media/lira-lira-translation-20f16658ab0c-desktop-20f16658ab0c.mp4",
+    "width": 1600,
+    "height": 1000,
+    "mobileSrc": "/media/lira-lira-translation-20f16658ab0c-mobile-20f16658ab0c.mp4",
+    "mobileWidth": 960,
+    "mobileHeight": 600
+  },
+  "lira/lira-vocabulary.mp4": {
+    "src": "/media/lira-lira-vocabulary-ff84e105e2ec-desktop-ff84e105e2ec.mp4",
+    "width": 1600,
+    "height": 1000,
+    "mobileSrc": "/media/lira-lira-vocabulary-ff84e105e2ec-mobile-ff84e105e2ec.mp4",
+    "mobileWidth": 960,
+    "mobileHeight": 600
+  },
+  "mba/mba-financement.mp4": {
+    "src": "/media/mba-mba-financement-8f8c6f293e3f-desktop-8f8c6f293e3f.mp4",
+    "width": 1600,
+    "height": 1000,
+    "mobileSrc": "/media/mba-mba-financement-8f8c6f293e3f-mobile-8f8c6f293e3f.mp4",
+    "mobileWidth": 960,
+    "mobileHeight": 600
+  },
+  "mba/mba-home.mp4": {
+    "src": "/media/mba-mba-home-c2f779eeb0d8-desktop-c2f779eeb0d8.mp4",
+    "width": 1200,
+    "height": 1000,
+    "mobileSrc": "/media/mba-mba-home-c2f779eeb0d8-mobile-c2f779eeb0d8.mp4",
+    "mobileWidth": 960,
+    "mobileHeight": 800
+  },
+  "mba/mba-keystatic.mp4": {
+    "src": "/media/mba-mba-keystatic-66b18779aa53-desktop-66b18779aa53.mp4",
+    "width": 1600,
+    "height": 1000,
+    "mobileSrc": "/media/mba-mba-keystatic-66b18779aa53-mobile-66b18779aa53.mp4",
+    "mobileWidth": 960,
+    "mobileHeight": 600
+  },
+  "septiemeseance/septieme-home.mp4": {
+    "src": "/media/septiemeseance-septieme-home-3187b851a681-desktop-3187b851a681.mp4",
+    "width": 1600,
+    "height": 1200,
+    "mobileSrc": "/media/septiemeseance-septieme-home-3187b851a681-mobile-3187b851a681.mp4",
+    "mobileWidth": 960,
+    "mobileHeight": 720
+  },
+  "septiemeseance/septieme-intro.mp4": {
+    "src": "/media/septiemeseance-septieme-intro-988db06c1188-desktop-988db06c1188.mp4",
+    "width": 1600,
+    "height": 1000,
+    "mobileSrc": "/media/septiemeseance-septieme-intro-988db06c1188-mobile-e6b54b847029.mp4",
+    "mobileWidth": 900,
+    "mobileHeight": 1000
+  },
+  "lira/lira-intro-roomy-poster.jpg": {
+    "src": "/media/lira-lira-intro-roomy-poster-efd3de8ebd6c-1540.webp",
+    "srcset": "/media/lira-lira-intro-roomy-poster-efd3de8ebd6c-480.webp 480w, /media/lira-lira-intro-roomy-poster-efd3de8ebd6c-768.webp 768w, /media/lira-lira-intro-roomy-poster-efd3de8ebd6c-1024.webp 1024w, /media/lira-lira-intro-roomy-poster-efd3de8ebd6c-1440.webp 1440w, /media/lira-lira-intro-roomy-poster-efd3de8ebd6c-1540.webp 1540w",
+    "width": 1540,
+    "height": 1260
+  },
+  "lira/lira-intro-roomy-still.jpg": {
+    "src": "/media/lira-lira-intro-roomy-still-d32e2e04a685-1540.webp",
+    "srcset": "/media/lira-lira-intro-roomy-still-d32e2e04a685-480.webp 480w, /media/lira-lira-intro-roomy-still-d32e2e04a685-768.webp 768w, /media/lira-lira-intro-roomy-still-d32e2e04a685-1024.webp 1024w, /media/lira-lira-intro-roomy-still-d32e2e04a685-1440.webp 1440w, /media/lira-lira-intro-roomy-still-d32e2e04a685-1540.webp 1540w",
+    "width": 1540,
+    "height": 1260
+  },
+  "lira/lira-intro-roomy.mp4": {
+    "src": "/media/lira-lira-intro-roomy-1d81f90e1269-desktop-1d81f90e1269.mp4",
+    "width": 1540,
+    "height": 1260,
+    "mobileSrc": "/media/lira-lira-intro-roomy-1d81f90e1269-mobile-1d81f90e1269.mp4",
+    "mobileWidth": 960,
+    "mobileHeight": 786
+  },
+  "mba/mba-intro-roomy-poster.jpg": {
+    "src": "/media/mba-mba-intro-roomy-poster-b7ec14688dc4-1540.webp",
+    "srcset": "/media/mba-mba-intro-roomy-poster-b7ec14688dc4-480.webp 480w, /media/mba-mba-intro-roomy-poster-b7ec14688dc4-768.webp 768w, /media/mba-mba-intro-roomy-poster-b7ec14688dc4-1024.webp 1024w, /media/mba-mba-intro-roomy-poster-b7ec14688dc4-1440.webp 1440w, /media/mba-mba-intro-roomy-poster-b7ec14688dc4-1540.webp 1540w",
+    "width": 1540,
+    "height": 1260
+  },
+  "mba/mba-intro-roomy-still.jpg": {
+    "src": "/media/mba-mba-intro-roomy-still-152fbe323588-1540.webp",
+    "srcset": "/media/mba-mba-intro-roomy-still-152fbe323588-480.webp 480w, /media/mba-mba-intro-roomy-still-152fbe323588-768.webp 768w, /media/mba-mba-intro-roomy-still-152fbe323588-1024.webp 1024w, /media/mba-mba-intro-roomy-still-152fbe323588-1440.webp 1440w, /media/mba-mba-intro-roomy-still-152fbe323588-1540.webp 1540w",
+    "width": 1540,
+    "height": 1260
+  },
+  "mba/mba-intro-roomy.mp4": {
+    "src": "/media/mba-mba-intro-roomy-c33403809ec6-desktop-c33403809ec6.mp4",
+    "width": 1540,
+    "height": 1260,
+    "mobileSrc": "/media/mba-mba-intro-roomy-c33403809ec6-mobile-c33403809ec6.mp4",
+    "mobileWidth": 960,
+    "mobileHeight": 786
+  },
+  "septiemeseance/septieme-intro-roomy-poster.jpg": {
+    "src": "/media/septiemeseance-septieme-intro-roomy-poster-89afb2c24e38-1540.webp",
+    "srcset": "/media/septiemeseance-septieme-intro-roomy-poster-89afb2c24e38-480.webp 480w, /media/septiemeseance-septieme-intro-roomy-poster-89afb2c24e38-768.webp 768w, /media/septiemeseance-septieme-intro-roomy-poster-89afb2c24e38-1024.webp 1024w, /media/septiemeseance-septieme-intro-roomy-poster-89afb2c24e38-1440.webp 1440w, /media/septiemeseance-septieme-intro-roomy-poster-89afb2c24e38-1540.webp 1540w",
+    "width": 1540,
+    "height": 1260
+  },
+  "septiemeseance/septieme-intro-roomy-still.jpg": {
+    "src": "/media/septiemeseance-septieme-intro-roomy-still-775242cf0b4f-1540.webp",
+    "srcset": "/media/septiemeseance-septieme-intro-roomy-still-775242cf0b4f-480.webp 480w, /media/septiemeseance-septieme-intro-roomy-still-775242cf0b4f-768.webp 768w, /media/septiemeseance-septieme-intro-roomy-still-775242cf0b4f-1024.webp 1024w, /media/septiemeseance-septieme-intro-roomy-still-775242cf0b4f-1440.webp 1440w, /media/septiemeseance-septieme-intro-roomy-still-775242cf0b4f-1540.webp 1540w",
+    "width": 1540,
+    "height": 1260
+  },
+  "septiemeseance/septieme-intro-roomy.mp4": {
+    "src": "/media/septiemeseance-septieme-intro-roomy-3577e5fd3496-desktop-3577e5fd3496.mp4",
+    "width": 1540,
+    "height": 1260,
+    "mobileSrc": "/media/septiemeseance-septieme-intro-roomy-3577e5fd3496-mobile-3577e5fd3496.mp4",
+    "mobileWidth": 960,
+    "mobileHeight": 786
+  },
+  "septiemeseance/année.jpg": {
+    "src": "/media/septiemeseance-année-d52399fbe82b-1206.webp",
+    "srcset": "/media/septiemeseance-année-d52399fbe82b-480.webp 480w, /media/septiemeseance-année-d52399fbe82b-768.webp 768w, /media/septiemeseance-année-d52399fbe82b-1024.webp 1024w, /media/septiemeseance-année-d52399fbe82b-1206.webp 1206w",
+    "width": 1206,
+    "height": 2148
+  },
+  "septiemeseance/durée.jpg": {
+    "src": "/media/septiemeseance-durée-38a6479380a4-1206.webp",
+    "srcset": "/media/septiemeseance-durée-38a6479380a4-480.webp 480w, /media/septiemeseance-durée-38a6479380a4-768.webp 768w, /media/septiemeseance-durée-38a6479380a4-1024.webp 1024w, /media/septiemeseance-durée-38a6479380a4-1206.webp 1206w",
+    "width": 1206,
+    "height": 2148
+  },
+  "septiemeseance/genre.jpg": {
+    "src": "/media/septiemeseance-genre-f5f234688454-1206.webp",
+    "srcset": "/media/septiemeseance-genre-f5f234688454-480.webp 480w, /media/septiemeseance-genre-f5f234688454-768.webp 768w, /media/septiemeseance-genre-f5f234688454-1024.webp 1024w, /media/septiemeseance-genre-f5f234688454-1206.webp 1206w",
+    "width": 1206,
+    "height": 2148
+  },
+  "mba/geoloc.jpg": {
+    "src": "/media/mba-geoloc-9b00036c50af-1920.webp",
+    "srcset": "/media/mba-geoloc-9b00036c50af-480.webp 480w, /media/mba-geoloc-9b00036c50af-768.webp 768w, /media/mba-geoloc-9b00036c50af-1024.webp 1024w, /media/mba-geoloc-9b00036c50af-1440.webp 1440w, /media/mba-geoloc-9b00036c50af-1920.webp 1920w",
+    "width": 2296,
+    "height": 1124
+  },
+  "mba/projections.jpg": {
+    "src": "/media/mba-projections-feb1544abd53-1920.webp",
+    "srcset": "/media/mba-projections-feb1544abd53-480.webp 480w, /media/mba-projections-feb1544abd53-768.webp 768w, /media/mba-projections-feb1544abd53-1024.webp 1024w, /media/mba-projections-feb1544abd53-1440.webp 1440w, /media/mba-projections-feb1544abd53-1920.webp 1920w",
+    "width": 2296,
+    "height": 1124
+  },
+  "lira/Lira/persona-01.jpg": {
+    "src": "/media/lira-Lira-persona-01-8c447fcc8278-1598.webp",
+    "srcset": "/media/lira-Lira-persona-01-8c447fcc8278-480.webp 480w, /media/lira-Lira-persona-01-8c447fcc8278-768.webp 768w, /media/lira-Lira-persona-01-8c447fcc8278-1024.webp 1024w, /media/lira-Lira-persona-01-8c447fcc8278-1440.webp 1440w, /media/lira-Lira-persona-01-8c447fcc8278-1598.webp 1598w",
+    "width": 1598,
+    "height": 798
+  },
+  "lira/Lira/persona-02.jpg": {
+    "src": "/media/lira-Lira-persona-02-99fbb872ff2f-1598.webp",
+    "srcset": "/media/lira-Lira-persona-02-99fbb872ff2f-480.webp 480w, /media/lira-Lira-persona-02-99fbb872ff2f-768.webp 768w, /media/lira-Lira-persona-02-99fbb872ff2f-1024.webp 1024w, /media/lira-Lira-persona-02-99fbb872ff2f-1440.webp 1440w, /media/lira-Lira-persona-02-99fbb872ff2f-1598.webp 1598w",
+    "width": 1598,
+    "height": 798
+  },
+  "lira/Lira/persona-03.jpg": {
+    "src": "/media/lira-Lira-persona-03-b099396f8a1d-1598.webp",
+    "srcset": "/media/lira-Lira-persona-03-b099396f8a1d-480.webp 480w, /media/lira-Lira-persona-03-b099396f8a1d-768.webp 768w, /media/lira-Lira-persona-03-b099396f8a1d-1024.webp 1024w, /media/lira-Lira-persona-03-b099396f8a1d-1440.webp 1440w, /media/lira-Lira-persona-03-b099396f8a1d-1598.webp 1598w",
+    "width": 1598,
+    "height": 798
+  },
+  "septiemeseance/septieme-geoloc-poster.jpg": {
+    "src": "/media/septiemeseance-septieme-geoloc-poster-051bd3616531-1600.webp",
+    "srcset": "/media/septiemeseance-septieme-geoloc-poster-051bd3616531-480.webp 480w, /media/septiemeseance-septieme-geoloc-poster-051bd3616531-768.webp 768w, /media/septiemeseance-septieme-geoloc-poster-051bd3616531-1024.webp 1024w, /media/septiemeseance-septieme-geoloc-poster-051bd3616531-1440.webp 1440w, /media/septiemeseance-septieme-geoloc-poster-051bd3616531-1600.webp 1600w",
+    "width": 1600,
+    "height": 1000
+  },
+  "septiemeseance/septieme-geoloc-still.jpg": {
+    "src": "/media/septiemeseance-septieme-geoloc-still-29bdb9d6a8d1-1600.webp",
+    "srcset": "/media/septiemeseance-septieme-geoloc-still-29bdb9d6a8d1-480.webp 480w, /media/septiemeseance-septieme-geoloc-still-29bdb9d6a8d1-768.webp 768w, /media/septiemeseance-septieme-geoloc-still-29bdb9d6a8d1-1024.webp 1024w, /media/septiemeseance-septieme-geoloc-still-29bdb9d6a8d1-1440.webp 1440w, /media/septiemeseance-septieme-geoloc-still-29bdb9d6a8d1-1600.webp 1600w",
+    "width": 1600,
+    "height": 1000
+  },
+  "septiemeseance/septieme-geoloc.mp4": {
+    "src": "/media/septiemeseance-septieme-geoloc-dd6982de5af6-desktop-dd6982de5af6.mp4",
+    "width": 1600,
+    "height": 1000,
+    "mobileSrc": "/media/septiemeseance-septieme-geoloc-dd6982de5af6-mobile-dd6982de5af6.mp4",
+    "mobileWidth": 960,
+    "mobileHeight": 600
+  }
+}

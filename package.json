@@ -1,0 +1,39 @@
+{
+  "name": "portfolio2027",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && node scripts/prerender.mjs",
+    "preview": "vite preview",
+    "verify": "node scripts/verify.mjs",
+    "posters": "node scripts/generate-posters.mjs",
+    "verify:videos": "node scripts/verify-videos.mjs",
+    "verify:site": "node scripts/verify-site.mjs",
+    "verify:media": "node scripts/verify-media-fit.mjs",
+    "media": "node scripts/optimize-media.mjs",
+    "verify:a11y": "node scripts/verify-accessibility.mjs",
+    "predev": "node scripts/optimize-media.mjs",
+    "prebuild": "node scripts/optimize-media.mjs --check",
+    "verify:motions": "node scripts/verify-motion-exports.mjs",
+    "verify:footer": "node scripts/verify-footer-return.mjs",
+    "render:motion": "node scripts/render-motion.mjs"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1",
+    "@vercel/speed-insights": "^2.0.0",
+    "gsap": "^3.13.0",
+    "lenis": "^1.3.11",
+    "vue": "^3.5.24",
+    "vue-router": "^4.6.3"
+  },
+  "devDependencies": {
+    "@sparticuz/chromium": "153.0.0",
+    "@vitejs/plugin-vue": "^6.0.1",
+    "axe-core": "^4.14.0",
+    "playwright": "^1.62.1",
+    "sharp": "^0.35.5",
+    "vite": "^7.2.2"
+  }
+}

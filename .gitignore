@@ -1,0 +1,34 @@
+# Dependencies, builds and local files
+node_modules/
+dist/
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+.vercel/
+
+# Internal notes and reports (kept locally)
+/EDITORIAL.md
+/notes.md
+/ACCESSIBILITY-AUDIT.md
+/VERIFICATION.md
+/MEDIA-OPTIMIZATION.md
+
+# Archives, references and motion authoring sources
+/archive/
+/reference/
+/verification/
+/motion-scenes/
+/public/motions/
+
+# Legacy pages and duplicate files
+/readwithlira.html
+/services.html
+/style.css
+/llms.txt
+/scripts/apprentissage.jpg
+/scripts/quiz.jpg
+
+# Personal document excluded from the public repository
+/public/CV Delattre Pierre.pdf

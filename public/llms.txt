@@ -1,0 +1,28 @@
+# Pierre Delattre, Portfolio 2027
+
+> Pierre Delattre est Product Designer et Design Engineer, basé à Lille. Ce portfolio présente ses projets, son approche et ses services en design et intégration web.
+
+Pierre associe recherche utilisateur, conception UX/UI et réalisation technique. Son parcours comprend des expériences e-commerce chez Tikamoon, des missions freelance et des projets produit. Il est certifié Opquast et intègre les bonnes pratiques de qualité web et d’accessibilité dès la conception.
+
+Contact : hello@pierredelattre.fr. Les projets sont des études de cas présentant le périmètre personnel, les décisions de conception, les limites et les résultats disponibles. Les pistes futures sont des hypothèses à valider.
+
+## Pages principales
+
+- [Accueil](https://pierredelattre.fr/): présentation et sélection de projets.
+- [Design et intégration](https://pierredelattre.fr/services): UX/UI, design system, Figma, Adobe et outils AI-driven ; intégration responsive, performance et bonnes pratiques SEO/GEO ; Wordpress, Shopify & autres CMS ; prototypes avec Claude Code et Codex ; accessibilité avec Opquast et critères RGAA.
+- [À propos](https://pierredelattre.fr/a-propos): parcours, approche, qualité web et usage de l’IA.
+
+## Projets
+
+- [Lira](https://pierredelattre.fr/projet/lira): apprentissage des langues par la lecture, vocabulaire sauvegardé en contexte, quiz et révision. Créé en mars 2026 ; acquisition organique SEO et GEO et analyse des usages depuis août 2026. Septembre 2026 : 400 clics Google, 128 inscriptions, 2 abonnements premium et 3 périodes d’essai. La rétention n’est pas encore mesurée de manière fiable. Prochaines étapes : simplifier le produit, clarifier la promesse et valider un éventuel besoin adjacent.
+- [MBA Formations](https://pierredelattre.fr/projet/mba-formations): architecture de l’information, clarification des parcours de formation, financement, contact et acquisition organique. Contribution ciblée ; suivi Analytics, plan de taggage et mailing, sans résultats chiffrés publiés. Données structurées, Keystatic, CRM et rapport automatisé.
+- [Septième Séance](https://pierredelattre.fr/projet/septiemeseance): recherche de séances de cinéma, filtres, géolocalisation et comparaison des projections. Le service a été arrêté après une restriction d’accès à l’API ; les pistes futures sont présentées comme explorations.
+- [Talkie](https://pierredelattre.fr/projet/talkie): interfaces d’apprentissage des langues, composants, design system Figma et Zeroheight, recherche exploratoire et tests utilisateurs. Collaboration avec Grégoire De Gaiffier, UX Designer.
+
+- [Accessibilité](https://pierredelattre.fr/accessibilite): démarche, réglages de mouvement, évaluation technique et limites des vérifications.
+
+## Ressources
+
+- [Sitemap](https://pierredelattre.fr/sitemap.xml): URLs canoniques des pages publiques.
+
+- Plan du site : https://pierredelattre.fr/plan-du-site
