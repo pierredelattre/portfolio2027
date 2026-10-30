@@ -156,7 +156,7 @@ onUnmounted(() => {
     </div>
     <BaseButton class="footer__email" href="mailto:hello@pierredelattre.fr" variant="primary">
      hello@pierredelattre.fr
-     <svg class="footer__email-icon" width="16" height="16" viewBox="0 0 15 15" fill="none" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M3.64645 11.3536C3.45118 11.1583 3.45118 10.8417 3.64645 10.6465L10.2929 4H6C5.72386 4 5.5 3.77614 5.5 3.5C5.5 3.22386 5.72386 3 6 3H11.5C11.6326 3 11.7598 3.05268 11.8536 3.14645C11.9473 3.24022 12 3.36739 12 3.5V9.00001C12 9.27615 11.7761 9.50001 11.5 9.50001C11.2239 9.50001 11 9.27615 11 9.00001V4.70711L4.35355 11.3536C4.15829 11.5488 3.84171 11.5488 3.64645 11.3536Z" fill="currentColor" stroke="currentColor" stroke-width=".35" /></svg>
+     <span class="footer__email-icon-slot" aria-hidden="true"><svg class="footer__email-icon" width="16" height="16" viewBox="0 0 15 15" fill="none" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M3.64645 11.3536C3.45118 11.1583 3.45118 10.8417 3.64645 10.6465L10.2929 4H6C5.72386 4 5.5 3.77614 5.5 3.5C5.5 3.22386 5.72386 3 6 3H11.5C11.6326 3 11.7598 3.05268 11.8536 3.14645C11.9473 3.24022 12 3.36739 12 3.5V9.00001C12 9.27615 11.7761 9.50001 11.5 9.50001C11.2239 9.50001 11 9.27615 11 9.00001V4.70711L4.35355 11.3536C4.15829 11.5488 3.84171 11.5488 3.64645 11.3536Z" fill="currentColor" stroke="currentColor" stroke-width=".35" /></svg></span>
     </BaseButton>
    </div>
   </div>
@@ -184,9 +184,18 @@ onUnmounted(() => {
 .footer__row { display: flex; justify-content: center; margin-block: auto; padding-block: 2rem; }
 .footer__contact { display: grid; justify-items: center; gap: 2rem; text-align: center; max-width: 48rem; }
 h2 { font-size: clamp(2rem, 3.5vw, 3rem); font-weight: 400; letter-spacing: -.035em; line-height: 1.15; text-wrap: balance; }
-.footer__email.button--primary { width: fit-content; max-width: 100%; gap: .25rem; background: #fff; color: #111; font-size: .875rem; text-decoration: none; }
-.footer__email-icon { flex-shrink: 0; }
-@media (hover: hover) and (pointer: fine) { .footer__email.button--primary:hover { background: #e8e8e8; } }
+.footer__email.button--primary { cursor: pointer; width: fit-content; max-width: 100%; gap: 0; background: #fff; color: #111; font-size: .875rem; text-decoration: none; transition: background-color 300ms ease-in-out; }
+.footer__email-icon-slot { pointer-events: none; position: relative; top: 8px; transform: translateY(-50%); display: block; flex: 0 0 auto; width: 0; height: 0; overflow: hidden; transition: width 300ms ease-in-out, height 300ms ease-in-out; }
+.footer__email-icon { position: absolute; left: 4px; bottom: 0; transform: scale(0); transform-origin: bottom left; transition: transform 300ms ease-in-out; }
+@media (hover: hover) and (pointer: fine) {
+ .footer__email.button--primary:hover { background: #e8e8e8; }
+ .footer__email:hover:not(:active) .footer__email-icon-slot { width: 20px; height: 16px; }
+ .footer__email:hover:not(:active) .footer__email-icon { transform: scale(1); }
+}
+:global(.motion-reduced) .footer__email, :global(.motion-reduced) .footer__email-icon-slot, :global(.motion-reduced) .footer__email-icon { transition: none; }
+@media (prefers-reduced-motion: reduce) {
+ .footer__email, .footer__email-icon-slot, .footer__email-icon { transition: none; }
+}
 .footer__intro { display: grid; justify-items: center; gap: 1.5rem; }
 .footer__intro > p:last-child { max-width: 54ch; color: var(--footer-muted); font-size: 1rem; line-height: 1.6; text-wrap: pretty; }
 .footer__label { color: var(--footer-color); }
