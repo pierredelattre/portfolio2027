@@ -151,7 +151,7 @@ onUnmounted(() => {
   <div class="footer__row">
    <div class="footer__contact" data-footer-reveal>
     <div class="footer__intro">
-     <h2 class="footer__label">Un projet en tête ? Du design à sa réalisation</h2>
+     <h2 class="footer__label">Un projet en tête ?<br>Du design à sa réalisation</h2>
      <p>Conception et intégration d’interfaces, avec une attention aux détails et aux usages.</p>
     </div>
     <BaseButton class="footer__email" href="mailto:hello@pierredelattre.fr" variant="primary">
@@ -159,13 +159,15 @@ onUnmounted(() => {
      <svg class="footer__email-icon" width="16" height="16" viewBox="0 0 15 15" fill="none" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M3.64645 11.3536C3.45118 11.1583 3.45118 10.8417 3.64645 10.6465L10.2929 4H6C5.72386 4 5.5 3.77614 5.5 3.5C5.5 3.22386 5.72386 3 6 3H11.5C11.6326 3 11.7598 3.05268 11.8536 3.14645C11.9473 3.24022 12 3.36739 12 3.5V9.00001C12 9.27615 11.7761 9.50001 11.5 9.50001C11.2239 9.50001 11 9.27615 11 9.00001V4.70711L4.35355 11.3536C4.15829 11.5488 3.84171 11.5488 3.64645 11.3536Z" fill="currentColor" stroke="currentColor" stroke-width=".35" /></svg>
     </BaseButton>
    </div>
-   <div class="footer__services" data-footer-reveal>
-    <nav aria-label="Découvrir le portfolio"><BaseButton to="/" variant="footer">Réalisations</BaseButton><BaseButton to="/services" variant="footer">Services</BaseButton><BaseButton to="/a-propos" variant="footer">À propos</BaseButton></nav>
-   </div>
   </div>
   <div class="footer__bottom" data-footer-reveal>
+   <div class="footer__meta">
    <p>Portfolio 2027</p>
    <nav aria-label="Informations de pied de page"><RouterLink to="/plan-du-site">Plan du site</RouterLink><RouterLink to="/accessibilite">Accessibilité</RouterLink><button type="button" :aria-pressed="userReducedMotion" @click="toggleReducedMotion">{{ userReducedMotion ? 'Activer les animations' : 'Réduire les animations' }}</button><a href="/llms.txt">LLMs</a><AnimatedLink subtle href="https://github.com/pierredelattre" target="_blank" rel="noopener noreferrer">GitHub</AnimatedLink></nav>
+   </div>
+   <div class="footer__services">
+    <nav aria-label="Découvrir le portfolio"><BaseButton to="/" variant="footer">Réalisations</BaseButton><BaseButton to="/services" variant="footer">Services</BaseButton><BaseButton to="/a-propos" variant="footer">À propos</BaseButton></nav>
+   </div>
   </div>
   </div></div>
  </footer>
@@ -174,44 +176,48 @@ onUnmounted(() => {
 .footer { position: relative; z-index: 2; background: #fff; }
 .footer__stage { position: relative; overflow: hidden; }
 .footer__panel { --footer-bg: var(--project-hero-bg, #fff); --footer-color: #111; --footer-muted: #626262; --footer-divider: #00000026; --footer-button-bg: #f0f0f0; --footer-button-color: #111; --footer-button-hover: #e5e5e5; display: flex; flex-direction: column; justify-content: space-between; gap: 4rem; padding: 6rem var(--gutter) 2rem; background: var(--footer-bg); color: var(--footer-color); transition: background-color 850ms cubic-bezier(.65,0,.35,1), color 850ms cubic-bezier(.65,0,.35,1); }
-.footer__panel--inverted { --footer-bg: var(--project-footer-bg, #111); --footer-color: #fff; --footer-muted: var(--project-footer-muted, #b4b4b4); --footer-divider: #ffffff26; --footer-button-bg: #ffffff14; --footer-button-color: #fff; --footer-button-hover: #ffffff26; }
+.footer__panel--inverted { --footer-bg: var(--project-footer-bg, #111); --footer-color: #fff; --footer-muted: var(--project-footer-muted, #b4b4b4); --footer-divider: #ffffff15; --footer-button-bg: #ffffff14; --footer-button-color: #fff; --footer-button-hover: #ffffff26; }
 .footer--animated { height: 170svh; }
 .footer--animated .footer__stage { position: sticky; top: 0; height: 100svh; clip-path: inset(8svh var(--gutter) round 4px); }
 .footer--animated .footer__panel { height: 100%; }
-.footer__bottom { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; color: var(--footer-muted); font-size: .8125rem; }
-.footer__row { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr) minmax(0, 1fr); align-items: center; gap: clamp(2rem, 3vw, 4rem); margin-block: auto; }
-.footer__contact { display: grid; gap: 1rem; text-align: left; }
-h2 { font-size: .875rem; font-weight: 400; letter-spacing: -.035em; line-height: 1.2; }
+.footer__bottom { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; color: var(--footer-muted); font-size: .875rem; }
+.footer__row { display: flex; justify-content: center; margin-block: auto; padding-block: 2rem; }
+.footer__contact { display: grid; justify-items: center; gap: 2rem; text-align: center; max-width: 48rem; }
+h2 { font-size: clamp(2rem, 3.5vw, 3rem); font-weight: 400; letter-spacing: -.035em; line-height: 1.15; text-wrap: balance; }
 .footer__email.button--primary { width: fit-content; max-width: 100%; gap: .25rem; background: #fff; color: #111; font-size: .875rem; text-decoration: none; }
 .footer__email-icon { flex-shrink: 0; }
 @media (hover: hover) and (pointer: fine) { .footer__email.button--primary:hover { background: #e8e8e8; } }
-.footer__intro { max-width: 44ch; display: grid; gap: .5rem; }
-.footer__intro > p:last-child { color: var(--footer-color); font-size: .875rem; line-height: 1.7; }
-.footer__label { color: var(--footer-muted); }
-.footer__services { grid-column: 3 / 4; display: grid; align-content: start; justify-self: end; text-align: right; gap: .5rem; }
-.footer__services nav { display: flex; justify-content: flex-end; flex-wrap: nowrap; gap: .5rem; }
+.footer__intro { display: grid; justify-items: center; gap: 1.5rem; }
+.footer__intro > p:last-child { max-width: 54ch; color: var(--footer-muted); font-size: 1rem; line-height: 1.6; text-wrap: pretty; }
+.footer__label { color: var(--footer-color); }
+.footer__services { flex-shrink: 0; }
+.footer__meta { --meta-gap: 1.5rem; display: flex; align-items: center; flex-wrap: wrap; gap: .5rem var(--meta-gap); font-size: .75rem; }
+.footer__meta > p { display: flex; align-items: center; gap: var(--meta-gap); min-height: 44px; white-space: nowrap; }
+.footer__meta :deep(a), .footer__meta button, .footer__meta > p { font-size: inherit; }
+.footer__services nav { display: flex; justify-content: flex-end; flex-wrap: nowrap; gap: 1rem; }
 .footer__bottom { padding-top: 1.5rem; border-top: 1px solid var(--footer-divider); }
-.footer__bottom nav { display: flex; flex-wrap: wrap; gap: .5rem 1.5rem; }
+.footer__meta nav { display: flex; flex-wrap: wrap; gap: .5rem var(--meta-gap); }
 .footer__panel { --link-hover-color: var(--footer-color); --link-secondary-color: var(--footer-muted); }
 .footer a, .footer button { min-height: 44px; align-items: center; }
-.footer__bottom a, .footer__bottom button { display: inline-flex; color: var(--footer-muted); transition: color 250ms cubic-bezier(.77,0,.175,1); }
+.footer__meta a, .footer__meta button { display: inline-flex; color: var(--footer-muted); transition: color 250ms ease-in-out; }
 .footer__bottom button { background: none; border: 0; padding: 0; }
 .footer :focus-visible { outline-color: var(--footer-color); box-shadow: 0 0 0 5px var(--footer-bg); }
 @media (hover: hover) and (pointer: fine) { .footer__bottom a:hover, .footer__bottom button:hover { color: var(--footer-color); } }
 @media (min-width: 1024px) { .footer__panel { min-height: 100svh; padding: max(12svh, 6rem) calc(var(--gutter) + 2rem) max(10svh, 3rem); } }
 @media (max-width: 1199px) {
- .footer__panel { gap: 3rem; padding: 3rem var(--gutter) 1.5rem; min-height: auto; }
- .footer__row { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 2.5rem 3rem; margin-block: auto; }
- .footer__services { grid-column: 2 / 3; justify-self: end; text-align: right; }
- .footer__services nav { justify-content: flex-end; flex-wrap: wrap; }
- .footer__bottom { align-items: start; flex-direction: column; gap: .5rem; }
- .footer__bottom nav { gap: .25rem 1.25rem; }
+ .footer__bottom { align-items: flex-start; flex-direction: column; gap: 1.5rem; }
+ .footer__meta { --meta-gap: 1.25rem; }
+ .footer__meta nav { row-gap: .25rem; }
+ .footer__services nav { justify-content: flex-start; flex-wrap: wrap; gap: 1rem; }
 }
 @media (max-width: 639px) {
- .footer__row { grid-template-columns: 1fr; gap: 3.5rem; margin-block: 0; }
- .footer__contact { text-align: left; }
- .footer__services { grid-column: 1 / -1; justify-self: start; text-align: left; }
- .footer__services nav { justify-content: flex-start; }
+ .footer__panel { gap: 3rem; padding: 4rem var(--gutter) 1.5rem; }
+ .footer__row { padding-block: 1rem 3rem; }
+ .footer__contact { gap: 2rem; }
+ .footer__intro { gap: 1.5rem; }
+ .footer__intro > p:last-child { font-size: .875rem; }
+ .footer__meta { --meta-gap: 1rem; align-items: flex-start; }
+ .footer__services nav { gap: 1rem; }
 }
 .footer--leaving :deep(.button--footer) { background: var(--footer-button-bg) !important; }
 .footer--leaving :deep(.animated-link__arrow) { opacity: 0 !important; }
